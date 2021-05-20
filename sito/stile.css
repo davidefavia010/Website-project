@@ -1,0 +1,423 @@
+
+.sfondo0 { background: url("cinepresa.jpg");
+    background-attachment: fixed;
+	margin: 0px;
+	background-size: 100% 100%;
+}
+.sfondo1 { background: url("horr.jpg");
+    background-attachment: fixed;
+	margin: 0px;
+	background-size: 100% 100%;
+}
+
+.sfondo2 { background: url("comedie.jpg");
+    background-attachment: fixed;
+	margin: 0px;
+	background-size: 100% 100%;
+}
+
+.sfondo3 { background: url("romantic.jpg");
+    background-attachment: fixed;
+	margin: 0px;
+	background-size: 100% 100%;
+}
+
+.sfondo4 { background: url("action.jpg");
+    background-attachment: fixed;
+	margin: 0px;
+	background-size: 100% 100%;
+}
+
+.sfondo5 { background: url("fanta.jpg");
+    background-attachment: fixed;
+	margin: 0px;
+	background-size: 100% 100%;
+}
+
+.sfondo6 { background: url("thrille.jpg");
+    background-attachment: fixed;
+	margin: 0px;
+	background-size: 100% 100%;
+}
+
+.sfondo7 { background: url("interro.jpg");
+    background-attachment: fixed;
+	margin: 0px;
+	background-size: 100% 100%;
+}
+
+#titolo{
+	text-align:center;
+	color: #4169E1;
+	font-family: 'Days One', sans-serif;
+	font-size: 55px;
+    background-color: black;
+	text-shadow: 2px 2px white;
+}
+
+a {
+	text-decoration: none;
+	
+}
+
+
+
+.descrizione {
+	text-align: center;
+	color: white;
+	font-family:'Bree Serif', serif;
+	font-size: 130%;
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	background-color: black ;
+    margin: auto;
+	margin-top: 35px;
+	margin-bottom: 6%;
+	padding-right: 2%;
+	padding-left: 2%;
+	
+} 
+
+#categorie{ 
+	text-align:center;
+	color:	orange;
+	font-family: 'Russo One', sans-serif;
+	font-size: 250%;
+	background-color: black;
+	border: 4px solid orange;
+	width: 85%;
+	margin: auto;
+}
+
+
+.horror h3{
+	float: right;
+	width: 47%;
+	height: 29vw;
+	text-align: left;
+	background-image: url("it.jpg");
+	border: 5px solid black;
+	color: red;
+	font-size: 2vw;
+	font-family: 'Russo One', sans-serif;
+	max-width: 100%;
+	
+}
+
+.commedia h3{
+	float: left;
+	width: 47%;
+	height: 29vw;
+	text-align: right;
+	background-image: url("notte.jpg");
+	border: 5px solid black;
+	display: inline-block;
+	color: red;
+	font-size: 2vw;
+	font-family: 'Russo One', sans-serif;
+	max-width: 100%;
+	
+	
+	
+}
+
+.romantico h3{
+	float: left;
+	width: 47%;
+	height: 29vw;
+	text-align: right;
+	background-image: url("cullen.jpg");
+	border: 5px solid black;
+	color: red;
+	display: inline-block;
+	font-size: 2vw;
+	font-family: 'Russo One', sans-serif;
+	max-width: 100%;
+}
+
+.azione h3{
+	float: right;
+	width: 47%;
+	height: 29vw;
+	text-align: left;
+	background-image: url("spiderman.jpg");
+	border: 5px solid black;
+	display: inline-block;
+	color: red;
+	font-size: 2vw;
+	font-family: 'Russo One', sans-serif;
+	max-width: 100%;
+}
+
+.thriller h3{
+	float: right;
+	width: 47%;
+	height: 29vw;
+	text-align: left;
+	background-image: url("thrill.jpg");
+	border: 5px solid black;
+	display: inline-block;
+	color: red;
+	font-size: 2vw;
+	font-family: 'Russo One', sans-serif;
+	max-width: 100%;
+
+	
+}
+
+.fantascienza h3{
+	float: left;
+	width: 47%;
+	height: 29vw;
+	text-align: right;
+	background-image: url("maze.jpg");
+	border: 5px solid black;
+	display: inline-block;
+	color: red;
+	font-size: 2vw;
+	font-family: 'Russo One', sans-serif;
+	max-width: 100%;
+
+	}
+
+.quizhome h3{
+
+	text-align: center; 
+	background-image: url("sedie.jpg");
+	border: 5px solid black;
+	display: inline-block;
+	color: red;
+	font-size: 3vw;
+	font-family: 'Russo One', sans-serif;
+    margin-left: 25%;
+	max-width: 100%;
+	height: 14vw;
+	width: 47%;
+	
+	
+	
+}
+
+.orizzontale {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.oriz {
+    float:  left;
+	
+	
+}
+
+.oriz a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	font-size: 110%;
+	border-bottom: 4px solid red;
+	font-family: 'Bree Serif', serif;
+}
+
+.oriz a:hover {
+    background-color: red;
+}
+
+
+
+
+
+
+h1 { 
+	text-align:center;
+	color: red;
+	font-family: 'Russo One', sans-serif;
+	font-size: 50px;
+	text-shadow: 1px 1px white;
+}
+
+
+.li_menu{
+  display: none;
+}
+
+.titoli{
+   color: #ff6600;
+	 font-size: 200%;
+	font-family: 'Days One', sans-serif;
+	background-color: blue;
+	margin-left: 20%;
+	margin-right: 20%;
+	border: 2px solid black;
+	margin-bottom: 4px;
+}
+.titoli:focus{
+  outline: none;
+}
+.titoli:hover{
+  text-decoration: none;
+}
+
+.descrizioneno{
+  display: none;
+}
+.descrizionesi{
+	color: white;
+	font-family: 'Bree Serif', serif;
+	font-size: 130%;
+	margin: auto;
+	background-color: blue;
+	width: 80%;
+	border: 3px solid black;
+	padding-left: 2%;
+	padding-right: 2%;
+	margin-bottom: 2%;
+}
+img{
+	
+  max-width: 20%;
+  margin-top: 0%;
+	float: left;
+	width: 18%;
+	margin-right: 3%;
+	border: 3px solid black;
+	
+}
+
+
+
+span.verde {
+	color: #00ff00;
+	font-size: 145%;
+}
+
+span.rosso {color: red;
+		font-size: 145%;
+		
+}
+
+span.rosso1 {color: red;
+			font-size: 145%;
+			margin-left: 21%;
+}
+
+#quantenesai { 
+	text-align:center;
+	color:	orange;
+	font-family: 'Russo One', sans-serif;
+	font-size: 200%;
+	background-color: black;
+	margin-bottom: 0%;
+	text-shadow: 1px 1px white;
+	
+}
+
+
+
+#quiz { 
+        font-size: 170%;
+		color: white;
+		background-color: black;
+		font-family: 'Bree Serif', serif;
+	    margin-bottom: 3%;
+		margin-left: 5%;
+		margin-right: 5%;
+		padding-left: 5%;
+		
+}
+
+
+#numeroDomanda { color:	#00FFFF ;
+font-family: 'Bree Serif', serif;
+}
+
+#testoDomanda{ color: 	#00FFFF;
+              font-family: 'Bree Serif', serif;
+			 
+}
+
+#titoloquiz h2 {
+	padding-top: 1%;
+	color: orange;
+	font-family:  'Russo One', sans-serif;
+	font-size: 160%;
+	text-shadow: 1px 1px white;
+	text-align: center;
+}
+
+#risultato { color: orange;
+            font-size: 200%;
+			font-family: 'Bree Serif', serif;
+}
+
+#inizia { margin-bottom: 5%;
+font-family: 'Bree Serif', serif;
+background-color: blue;
+color: orange;
+font-size: 90%;
+border: 3px solid white;
+          
+}
+
+#avanti {margin-bottom: 2%;
+font-family: 'Bree Serif', serif;
+background-color: blue;
+color: orange;
+font-size: 90%;
+border: 3px solid white;
+margin-top: 3%;
+
+          
+}
+
+
+
+footer {bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: #4169E1;
+  font-size: 100%;
+border-top:  2px solid #4169E1;
+text-align: center;
+position: fixed;
+font-family: 'Bree Serif', serif;
+}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	   
+
+
+
+	
+	
+
+
+
+	
+		
+
+
+
+	
+
+	
